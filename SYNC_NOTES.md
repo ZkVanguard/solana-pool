@@ -2,7 +2,7 @@
 
 Solana chain vertical: pool ledger and indexer, SPL instruction builders, sleeve trader, Solana API routes and UI. Code-only snapshot of the ZKward platform; deploys ship from the main repository.
 
-**Last sync:** 2026-10-02, from main repository commit `5725fe08`.
+**Last sync:** 2026-10-02, from main repository commit `ce94d49b`.
 
 ## Paths
 
